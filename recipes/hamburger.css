@@ -31,8 +31,35 @@ p {
     font-size: 18px;
     padding: 16px;
     border: 32px;
-    
-    box-sizing: content-box;
+    box-sizing: border-box;
+}
+
+div {
+    border: 16px;
+    border-style: dotted;
+    box-sizing: border-box;
+    padding: 16px;
+
+}
+
+li {
+    padding: 16px;
+    font-size: 22px;
 }
 
 
+.birdie  {
+    border-color: pink;
+    padding: 16px;
+}
+
+.bogey  {
+    border-color: burlywood;
+    padding: 16px;
+}
+
+.hamburger  {
+    color: green;
+    background-color: grey;
+    box-sizing: border-box;
+}
