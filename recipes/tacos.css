@@ -1,0 +1,60 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+h1 {
+    font-size: 45px;
+    padding: 16px;
+    box-sizing: border-box;
+    width: 530px;
+    background-color: yellow;
+    
+}
+
+h3 {
+    font-size: 32px;
+    box-sizing: border-box;
+    padding: 16px;
+    width: 200px;
+    background-color: white;
+    border-style: dashed;
+    border-color: brown;
+}
+
+span {
+    background-color: yellow;
+    border-style: solid;
+    border-color: blue;
+    box-sizing: border-box;
+}
+
+li {
+    padding: 16px;
+    border: 32px;
+    border-style: double;
+    border-color: aqua;
+    background-color: green;
+    font-size: 18px;
+    box-sizing: border-box;
+    width: 250px;
+}
+
+.birdie {
+    border: 16px;
+    background-color: pink;
+    color: black;
+    padding: 32px;
+    width: 1000px;
+    font-size: 24px;
+}
+.bogey  {
+    color: burlywood;
+    background-color: black;
+    width: 1200px;
+    padding: 32px;
+    box-sizing: border-box;
+    border: 64px;
+    height: auto;
+}
+
