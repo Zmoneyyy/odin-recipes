@@ -1,0 +1,38 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+span {
+    background-color: yellow;
+    font-weight: bold;
+}
+
+h1 {
+   
+   box-sizing: border-box;
+   color: black; 
+    
+}
+
+
+h3 {
+    font-size: 32px;
+    padding: 16px;
+    border: 16px;
+    border-color: blue;
+    box-sizing: border-box;
+    border-style: solid;
+    width: 225px;
+    background-color: red;
+}
+
+p {
+    font-size: 18px;
+    padding: 16px;
+    border: 32px;
+    
+    box-sizing: content-box;
+}
+
+

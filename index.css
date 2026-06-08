@@ -1,0 +1,28 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    max-width: 600px;
+    margin: auto;
+    background-color: aqua
+}
+
+.title {
+   text-align: center;
+    background-color: black;
+    color: pink;
+    font-weight: bold;
+    width: auto;
+    display: inline-block;
+    box-sizing: border-box;
+    margin-left: 200px;
+}
+
+li {
+    margin: 12px;
+    width: 16px;
+    text-align: center;
+}
+
+p {
+    background-color: yellow;
+    text-align: center;
+}
