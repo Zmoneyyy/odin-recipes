@@ -1,0 +1,45 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+
+h3 {
+    font-size: 32px;
+    padding: 16px;
+    border: 16px;
+    border-color: green;
+    box-sizing: border-box;
+    border-style: solid;
+    width: 225px;
+    background-color: purple;
+}
+
+h1 {
+    font-size: 45px;
+    padding: 16px;
+    box-sizing: border-box;
+    width: 530px;
+    background-color: yellow;
+    
+}
+
+a {
+    background-color: yellow;
+}
+
+p {
+    font-size: 20px;
+}
+
+li {
+    border-style: groove;
+    border-width: 16px;
+    border-color: burlywood;
+    background-color: pink;
+    padding: 12px;
+    box-sizing: border-box;
+    width: 250px;
+    color: yellow;
+    margin: 1em;
+}
